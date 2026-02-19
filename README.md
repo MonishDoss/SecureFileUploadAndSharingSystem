@@ -241,8 +241,8 @@ SecureFileUploadSystem/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/secure-file-upload-system.git
-cd secure-file-upload-system
+git clone https://github.com/MonishDoss/SecureFileUploadAndSharingSystem.git
+cd SecureFileUploadAndSharingSystem
 ```
 
 ### Step 2: Database Setup
