@@ -3,6 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
+.mvn/
 
 # Compiled class files
 *.class
@@ -28,6 +29,7 @@ buildNumber.properties
 *.iws
 *.iml
 *.ipr
+.idea/
 
 ### Eclipse ###
 .apt_generated
